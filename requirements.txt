@@ -8,7 +8,6 @@ charset-normalizer==3.3.2
 colorama==0.4.6
 editor==1.6.6
 getch==1.0
-gofile==0.2.0
 h11==0.14.0
 httpcore==1.0.4
 httpx==0.27.0
